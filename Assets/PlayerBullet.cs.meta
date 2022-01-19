@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2d52158ccf6ef9047bac915daa64445f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pCam: {instanceID: 0}
+  - bulletPrefab: {fileID: 100000, guid: 3a4b763ccde630e499dd20b88431d65b, type: 2}
+  - bull: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

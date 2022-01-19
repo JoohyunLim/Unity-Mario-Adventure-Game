@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a834a5b1c0a385343b69a36aa201793a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ParticlePrefab: {fileID: 100000, guid: 66e9c481e7475b540a4bf8a6ec4e9641, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

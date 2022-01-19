@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 10ac781f84f3904479751c46819a2ff7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mushroomParticlePrefab: {fileID: 100000, guid: 66e9c481e7475b540a4bf8a6ec4e9641,
+      type: 2}
+  - lifeParticlePrefab: {fileID: 100000, guid: 7c54ec9c3da1ae747a23aa88e6ef636f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

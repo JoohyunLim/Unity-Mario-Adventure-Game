@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerSoundEffector.js">
+    <Files>
+      <File FileName="Assets\Script\PlayerSoundEffector.js" Line="18" Column="11" />
+      <File FileName="Assets\bulletCollision.js" Line="7" Column="23" />
+      <File FileName="Assets\Script\PlayerStatus.js" Line="53" Column="30" />
+      <File FileName="Assets\PlayerBullet.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

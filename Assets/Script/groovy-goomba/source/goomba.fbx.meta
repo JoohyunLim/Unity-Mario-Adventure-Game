@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 3e1ed0ae52cd9774d990a6e5aa2ccbee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Brows
+    100004: eyepupals
+    100006: Feet
+    100008: Goomba
+    100010: //RootNode
+    100012: Goomba_MeshPart0
+    100014: Goomba_MeshPart1
+    100016: Goomba_MeshPart10
+    100018: Goomba_MeshPart2
+    100020: Goomba_MeshPart3
+    100022: Goomba_MeshPart4
+    100024: Goomba_MeshPart5
+    100026: Goomba_MeshPart6
+    100028: Goomba_MeshPart7
+    100030: Goomba_MeshPart8
+    100032: Goomba_MeshPart9
+    100034: Plane.002
+    100036: Plane.003
+    100038: Plane.004
+    100040: Plane.005
+    100042: Plane.010
+    100044: Tooth
+    400000: Body
+    400002: Brows
+    400004: eyepupals
+    400006: Feet
+    400008: Goomba
+    400010: //RootNode
+    400012: Goomba_MeshPart0
+    400014: Goomba_MeshPart1
+    400016: Goomba_MeshPart10
+    400018: Goomba_MeshPart2
+    400020: Goomba_MeshPart3
+    400022: Goomba_MeshPart4
+    400024: Goomba_MeshPart5
+    400026: Goomba_MeshPart6
+    400028: Goomba_MeshPart7
+    400030: Goomba_MeshPart8
+    400032: Goomba_MeshPart9
+    400034: Plane.002
+    400036: Plane.003
+    400038: Plane.004
+    400040: Plane.005
+    400042: Plane.010
+    400044: Tooth
+    2300000: Body
+    2300002: Brows
+    2300004: eyepupals
+    2300006: Feet
+    2300008: Goomba_MeshPart0
+    2300010: Goomba_MeshPart1
+    2300012: Goomba_MeshPart10
+    2300014: Goomba_MeshPart2
+    2300016: Goomba_MeshPart3
+    2300018: Goomba_MeshPart4
+    2300020: Goomba_MeshPart5
+    2300022: Goomba_MeshPart6
+    2300024: Goomba_MeshPart7
+    2300026: Goomba_MeshPart8
+    2300028: Goomba_MeshPart9
+    2300030: Plane.002
+    2300032: Plane.003
+    2300034: Plane.004
+    2300036: Plane.005
+    2300038: Plane.010
+    2300040: Tooth
+    3300000: Body
+    3300002: Brows
+    3300004: eyepupals
+    3300006: Feet
+    3300008: Goomba_MeshPart0
+    3300010: Goomba_MeshPart1
+    3300012: Goomba_MeshPart10
+    3300014: Goomba_MeshPart2
+    3300016: Goomba_MeshPart3
+    3300018: Goomba_MeshPart4
+    3300020: Goomba_MeshPart5
+    3300022: Goomba_MeshPart6
+    3300024: Goomba_MeshPart7
+    3300026: Goomba_MeshPart8
+    3300028: Goomba_MeshPart9
+    3300030: Plane.002
+    3300032: Plane.003
+    3300034: Plane.004
+    3300036: Plane.005
+    3300038: Plane.010
+    3300040: Tooth
+    4300000: Goomba_MeshPart0
+    4300002: Goomba_MeshPart1
+    4300004: Goomba_MeshPart2
+    4300006: Goomba_MeshPart3
+    4300008: Goomba_MeshPart4
+    4300010: Goomba_MeshPart5
+    4300012: Goomba_MeshPart6
+    4300014: Goomba_MeshPart7
+    4300016: Goomba_MeshPart8
+    4300018: Goomba_MeshPart9
+    4300020: Goomba_MeshPart10
+    4300022: Brows
+    4300024: eyepupals
+    4300026: Tooth
+    4300028: Body
+    4300030: Feet
+    4300032: Plane.002
+    4300034: Plane.003
+    4300036: Plane.004
+    4300038: Plane.005
+    4300040: Plane.010
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassesFrame
+    second: {fileID: 2100000, guid: bcda16ecc904e3b4581322f4e7f60a0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassesLens
+    second: {fileID: 2100000, guid: 26dd4792e26a93f409f91937151282a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 19014fe6586287c42a7e08ccc70be05d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: aad62fd1d4a52454584f2dcac793dc1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 37d0d1a955c4f1745a317061b63fcde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d2334176eca425d4d9382727b1056041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brow
+    second: {fileID: 2100000, guid: 0aa2a674a8d4bb943baacdb12e600187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeBlack
+    second: {fileID: 2100000, guid: 7cd741b81a17cff44a4564949881c280, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyewhite
+    second: {fileID: 2100000, guid: b1a35fbd1889e024c832c80e1ca81a2e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

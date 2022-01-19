@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8e3cf88ed2e25164e915fb4d17e9a5b4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinSE: {fileID: 8300000, guid: 6d6bd84f7ea22f44aa87265697a8b6a0, type: 3}
+  - heartSE: {fileID: 8300000, guid: 3eb9b32e08e0f6044909deb02b77df22, type: 3}
+  - damageSE: {fileID: 8300000, guid: 9ba9dc00e5e3d7c4ba3ea408fe954f62, type: 3}
+  - jumpSE: {fileID: 8300000, guid: 7677043e16860d347a087168cebb0adc, type: 3}
+  - monsterDieSE: {fileID: 8300000, guid: aaea3ec0a272d4d469ca7f81d7cd5dd6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f04a9d2d32c93a84593c23d8e072ad56
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - FlowerParticlePrefab: {fileID: 100000, guid: e6186a486e53f6747a7ee5787113fbac,
+      type: 2}
+  - FlowerCollider: {fileID: 100000, guid: 4a8de1806223f4a41a62c81c9ab801dc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
